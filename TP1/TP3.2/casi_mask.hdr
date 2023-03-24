@@ -1,0 +1,16 @@
+ENVI
+description = {
+  User Defined Mask Image [Fri Mar 24 15:41:17 2023]}
+samples = 1068
+lines   = 1042
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+default stretch = 0.000000 1.000000 linear
+band names = {
+ Mask Band}

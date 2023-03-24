@@ -1,0 +1,22 @@
+ENVI
+description = {
+  Minimum Distance Classification Result [Fri Mar 24 14:48:43 2023]}
+samples = 1068
+lines   = 1042
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 10
+class lookup = {
+   0,   0,   0, 255, 255, 255, 255,   0,   0,   0,   0, 255, 255, 255,   0,
+ 216, 191, 216, 125,  38, 205,   0, 139,   0, 255, 255, 255, 205, 133,   0}
+class names = {
+ Unclassified, fond, vegetation, eau, sable, toit blanc, toit sombre, 
+ marais, fond, route}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Min Dist (CASI.img)}

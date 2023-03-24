@@ -1,0 +1,15 @@
+ENVI
+description = {
+  Applied Mask Result [Fri Mar 24 15:46:58 2023]}
+samples = 1068
+lines   = 1042
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Mask (Band Math (float(B3)-float(B2)/float(B3)+float(B2)):veg)}

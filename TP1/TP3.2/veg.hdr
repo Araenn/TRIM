@@ -1,0 +1,17 @@
+ENVI
+description = {
+  Band Math Result, Expression = [float(B3)-float(B2)/float(B3)+float(B2)]
+  B2:Layer_32694402:CASI.img B3:Layer_62694402:CASI.img [Fri Mar 24 15:46:42
+  2023]}
+samples = 1068
+lines   = 1042
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Band Math (float(B3)-float(B2)/float(B3)+float(B2))}
