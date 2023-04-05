@@ -1,0 +1,32 @@
+ENVI
+description = {
+  Spectral Angle Mapper Classification Result [Wed Apr 05 16:28:54 2023]}
+samples = 512
+lines   = 512
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 14
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,   0,   0, 255, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 176,  48,  96,  46, 139,  87, 160,  32, 240,
+ 255, 127,  80, 127, 255, 212, 218, 112, 214, 160,  82,  45}
+class names = {
+ Unclassified, roche, sable, posidonie seche, vegetation, mer fond roche, 
+ algues, algues, algues, mer fond roche, mer fond roche, 
+ spectres05_04_23.txt:C12, crabe, oursin}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Sam (REFLECTANCE_034.dat)}
+latitude = 0.00000000
+longitude = 0.00000000
+acquisition date = 05-04-2023
+errors = none
+binning = {
+ 1, 1}
+tint = 3
+fps = 150
